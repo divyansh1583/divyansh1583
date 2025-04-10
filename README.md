@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
 - 💼 **Associate Software Engineer** at **smartData Enterprises Inc.**
 - 🧠 Working with **.NET Core**, **Angular**, **CQRS**, **Microservices**, and **Azure**
 - 📍 Based in Himachal Pradesh, India
-- 🎓 B.Tech in Computer Science from **JUIT** | CGPA: 8.06
+- 🎓 B.Tech in Computer Science from **JUIT** | CGPA: 8.2
 - 📚 Navodaya Vidyalaya Alumni | 94.2% in CBSE Boards
 
 ---
