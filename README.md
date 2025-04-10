@@ -28,25 +28,6 @@ I'm a passionate Full Stack Developer with experience in building scalable web a
 
 ---
 
-## 🔨 Projects
-
-### 🔹 [CountryOpinions](https://github.com/divyansh1583)
-*Built for an international client to manage survey groups and automate notifications.*  
-**Stack:** .NET Core, Angular 18, SQL Server, Azure, Microservices  
-**Impact:** Boosted user engagement and reduced manual workload by 30%.
-
-### 🔹 [Mindful Billing](https://github.com/divyansh1583)
-*A medical billing system for managing claims, patients, and insurance processes.*  
-**Stack:** .NET 8, Angular 14, SQL Server  
-**Impact:** Reduced claim processing time by 50% and improved billing accuracy.
-
-### 🔹 [UserManagementApp](https://github.com/divyansh1583)
-*A full-stack application to manage user accounts and profiles.*  
-**Stack:** .NET Core, Angular 16, SQL Server  
-**Purpose:** Personal project showcasing authentication, data handling, and CRUD operations.
-
----
-
 ## 📫 Let's Connect!
 
 - 📧 Email: [divyanshchauhan28@gmail.com](mailto:divyanshchauhan28@gmail.com)  
